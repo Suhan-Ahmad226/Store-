@@ -2,17 +2,18 @@
   "name": "client",
   "private": true,
   "version": "0.0.0",
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
-    "@mui/material": "^5.11.16",
-    "@mui/x-data-grid": "^6.0.4",  // Material-UI v5 এর Data Grid
-    "@mui/icons-material": "^5.11.16",  // আইকনের জন্য
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.11.16",
+    "@mui/x-data-grid": "^6.0.4",
     "@reduxjs/toolkit": "^1.9.3",
     "axios": "^1.3.4",
     "country-state-city": "^3.1.2",
