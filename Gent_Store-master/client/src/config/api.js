@@ -1,3 +1,2 @@
-export const apiUrl = "https://gent-store-api.onrender.com/api/v1/";
-
-export const baseUrl = "https://gent-store-api.onrender.com/";
+export const baseUrl = "https://store-n7ai.onrender.com";
+export const apiUrl = "https://store-n7ai.onrender.com/api/v1/";
